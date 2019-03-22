@@ -1,7 +1,6 @@
 ![](rc3.png)
 
-# RC3 2018
-## Team Name
+# Team Name
 
 This is a template repo for individual teams in RC3 2018. To get started:
 
